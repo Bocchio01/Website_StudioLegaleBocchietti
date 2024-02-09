@@ -1,2 +1,3 @@
-# Bocchietti_WebSite
-Code for the Bocchietti Law Firm website.
+# Studio Legale Bocchietti Website
+
+Code for the `Studio Legale Bocchietti` website.

@@ -5,7 +5,40 @@ app()->match('GET', '/', function () {
 });
 
 app()->match('GET', '/curricula(/[a-z0-9_-]+)?', function ($curriculumSurname = '') {
-    render('pages.curriculums', ['curriculumSurname' => $curriculumSurname]);
+
+    switch (strtolower($curriculumSurname)) {
+        case 'bocchietti':
+            render('pages.curriculums',
+            [
+                'curriculum' => 'bocchietti',
+                'coverImage' => [
+                    'src' => 'img/bocchietti.jpg',
+                    'alt' => 'Claudio Bocchietti'
+                ]]);
+            break;
+
+        case 'bulanti':
+            render('pages.curriculums',
+            [
+                'curriculum' => 'bulanti',
+                'coverImage' => [
+                    'src' => 'img/bulanti.png',
+                    'alt' => 'Gloria Bulanti'
+                ]]);
+            break;
+
+        default:
+            render('pages.curriculums',
+            [
+                'curriculum' => false,
+                'coverImage' => [
+                    'src' => 'img/feather_pen.jpg',
+                    'alt' => 'Feather pen image'
+                ]]);
+            break;
+    }
+
+
 });
 
 app()->match('GET', '/attività', function () {

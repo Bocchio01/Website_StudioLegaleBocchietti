@@ -34,6 +34,8 @@
                     d'urgenza; diritto sportivo; assistenza e consulenza stragiudiziale.
                 </section>
 
+                <br>
+
                 <section>
                     <b>Nell'ambito del Diritto Penale</b> reato di omicidio colposo e reato di lesioni colpose con
                     particolare riferimento alla difesa di personale medico ed infermieristico e alla difesa (quali
@@ -47,8 +49,6 @@
                 </section>
 
             </section>
-
-            @include('_components.address')
 
         </main>
 

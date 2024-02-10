@@ -12,6 +12,6 @@ class formatHelper
 {
     public static function rendersStudioLegaleBocchietti()
     {
-        return htmlentities('<b>Studio Legale Bocchietti</b>');
+        echo '<b>Studio Legale Bocchietti</b>';
     }
 }

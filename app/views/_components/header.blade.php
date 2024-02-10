@@ -1,14 +1,12 @@
 @php
-$currentHost = "http://$_SERVER[HTTP_HOST]/";
+    $currentHost = "http://$_SERVER[HTTP_HOST]/";
 @endphp
 
 <header>
 
-    <div class="intestazione">
-        <a href="/">
-            <h1>Studio Legale Bocchietti</h1>
-        </a>
-    </div>
+    <h1>
+        <a href="/">Studio Legale Bocchietti</a>
+    </h1>
 
     <nav>
         <ul>
@@ -17,12 +15,13 @@ $currentHost = "http://$_SERVER[HTTP_HOST]/";
             <li><a href="/attività">Attività</a></li>
             <li><a href="/contatti">Contatti</a></li>
         </ul>
+
     </nav>
 
-    @if (isset($subtitle))
-        <h2 style="text-align: right;">{{ $subtitle }}</h2>
-    @endif
+    <hr>
 
-    <hr width="42%">
+    @if (isset($subtitle))
+        <h2>{{ $subtitle }}</h2>
+    @endif
 
 </header>

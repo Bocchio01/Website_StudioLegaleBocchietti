@@ -24,7 +24,7 @@
             <section>
 
                 <section>
-                    <p>Limitazione di responsabilità</p>
+                    <h3>Limitazione di responsabilità</h3>
 
                     <p>Si prega di leggere attentamente questi termini e condizioni di utilizzo in quanto l'utilizzo del
                         sito web da parte dell'utente ne implica l'accettazione.<br>
@@ -89,7 +89,7 @@
                 </section>
 
                 <section>
-                    <p>Privacy</p>
+                    <h3>Privacy</h3>
 
                     <p>
                         Studio legale Bocchietti raccoglie e utilizza i dati personali dei propri utenti secondo le
@@ -115,8 +115,6 @@
                 </section>
 
             </section>
-
-            @include('_components.address')
 
         </main>
 

@@ -23,7 +23,9 @@
 
             <section>
 
-                Di seguito i recapiti degli avvocati presenti nello {{ formatHelper::rendersStudioLegaleBocchietti() }}:
+                <p>
+                    Di seguito i recapiti degli avvocati presenti nello {{ formatHelper::rendersStudioLegaleBocchietti() }}:
+                </p>
 
                 <ul>
                     <li><a href="mailto:{{ getenv('EMAIL_BOCCHIETTI') }}">Avv. Claudio Bocchietti</a></li>
@@ -31,8 +33,6 @@
                 </ul>
 
             </section>
-
-            @include('_components.address')
 
         </main>
 

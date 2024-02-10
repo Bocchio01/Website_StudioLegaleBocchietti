@@ -28,8 +28,6 @@
 
             </section>
 
-            @include('_components.address')
-
         </main>
 
         @include('_components.footer')

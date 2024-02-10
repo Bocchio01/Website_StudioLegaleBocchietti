@@ -13,8 +13,8 @@
         <main>
 
             @include('_components.coverImage', [
-                'src' => 'img/404.jpg',
-                'alt' => 'Errore 404 image',
+                'src' => 'img/feather_pen.jpg',
+                'alt' => 'Feather pen image',
             ])
 
             <section>
@@ -25,8 +25,6 @@
                 </p>
 
             </section>
-
-            @include('_components.address')
 
         </main>
 

@@ -1,3 +1,7 @@
+@php
+$currentHost = "http://$_SERVER[HTTP_HOST]/";
+@endphp
+
 <div class="cover-image">
-    <img src="{{ assets($src) }}" alt="{{ $alt ?? 'Studio Legale Bocchietti' }}"/>
+    <img src="{{ $currentHost . assets($src) }}" alt="{{ $alt ?? 'Studio Legale Bocchietti' }}"/>
 </div>

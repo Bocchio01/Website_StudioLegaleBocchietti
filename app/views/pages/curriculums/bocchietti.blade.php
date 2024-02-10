@@ -1,10 +1,10 @@
-<section>
-    <p>Avv. Claudio Bocchietti</p>
+<section style="text-align: center;">
+    <h3>Avv. Claudio Bocchietti</h3>
     <i>Abilitato alle Giurisdizioni Superiori</i>
 </section>
 
 <section>
-    <p>Dati Anagrafici</p>
+    <h3>Dati Anagrafici</h3>
     <ul>
         <li>Nato a Como, il 23 agosto 1964.</li>
         <li>Sposato con Paola, due figli.</li>
@@ -12,7 +12,7 @@
 </section>
 
 <section>
-    <p>Formazione</p>
+    <h3>Formazione</h3>
     <ul>
         <li>
             <b>1983</b> - Maturità classica al Liceo Classico Alessandro Volta di Como con esame orale in Fisica e
@@ -37,7 +37,7 @@
 </section>
 
 <section>
-    <p>Esperienze Professionali</p>
+    <h3>Esperienze Professionali</h3>
     <ul>
         <li>
             <b>Dal 1988 al 1990</b> - Praticante Avvocato presso lo Studio Legale dell'avv. prof. Marco Sica di Milano.
@@ -58,7 +58,7 @@
 </section>
 
 <section>
-    <p>Materie Trattate</p>
+    <h3>Materie Trattate</h3>
 
     <ul>
         <li>
@@ -85,14 +85,14 @@
 </section>
 
 <section>
-    <p>Lingue Straniere</p>
+    <h3>Lingue Straniere</h3>
     <ul>
         <li>Francese e Inglese scolastico</li>
     </ul>
 </section>
 
 <section>
-    <p>Pubblicazioni, Conferenze e altri interventi pubblici</p>
+    <h3>Pubblicazioni, Conferenze e altri interventi pubblici</h3>
     <ul>
         <li>
             <i>"Il Risarcimento del Calciatore Infortunato"</i>, Articolo pubblicato in Quaderni del Centro Sportivo
@@ -374,10 +374,10 @@
 </section>
 
 <section>
-    <p>Incarichi di rilevanza pubblica</p>
+    <h3>Incarichi di rilevanza pubblica</h3>
 
     <section>
-        <p>Incarichi attivi</p>
+        <h3>Incarichi attivi</h3>
         <ul>
             <li>
                 <b>Presidente</b> della Società dei Palchettisti del Teatro Sociale di Como.
@@ -415,7 +415,7 @@
     </section>
 
     <section>
-        <p>Incarichi cessati</p>
+        <h3>Incarichi cessati</h3>
         <ul>
 
             <li>

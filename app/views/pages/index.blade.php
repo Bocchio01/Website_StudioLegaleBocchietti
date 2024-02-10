@@ -29,13 +29,13 @@
                     sempre più puntuale risposta alle esigenze del cliente.
                 </p>
                 <p>
-                    E' formato dall'avvocato Claudio Bocchietti Abilitato alle Giurisdizioni Superiori, dall'avvocato
+                    É formato dall'avvocato Claudio Bocchietti Abilitato alle Giurisdizioni Superiori, dall'avvocato
                     Gloria Bulanti oltre al personale di Segreteria.
                 </p>
 
             </section>
 
-            @include('_components.address')
+        @include('_components.references')
 
         </main>
 

@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="it">
 
-@include('_components.head', ['title' => 'Errore'])
+@include('_components.head', ['title' => ''])
 
 <body>
     <div>
 
         @include('_components.header', [
-            'subtitle' => 'Errore',
+            'subtitle' => 'Errore 404',
         ])
 
         <main>
 
-            @include('_components.coverImage', [
+            {{-- @include('_components.coverImage', [
                 'src' => 'img/404.jpg',
                 'alt' => 'Errore 404 image',
-            ])
+            ]) --}}
 
             <section>
 

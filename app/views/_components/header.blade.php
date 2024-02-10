@@ -1,7 +1,3 @@
-@php
-    $currentHost = "http://$_SERVER[HTTP_HOST]/";
-@endphp
-
 <header>
 
     <h1>
@@ -12,7 +8,7 @@
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/curricula">Curricula</a></li>
-            <li><a href="/attività">Attività</a></li>
+            <li><a href="/attivita">Attività</a></li>
             <li><a href="/contatti">Contatti</a></li>
         </ul>
 

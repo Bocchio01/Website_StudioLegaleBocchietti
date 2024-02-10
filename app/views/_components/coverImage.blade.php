@@ -1,5 +1,5 @@
 @php
-$currentHost = "http://$_SERVER[HTTP_HOST]/";
+$currentHost = getenv('APP_URL') . "/" ;
 @endphp
 
 <div class="cover-image">

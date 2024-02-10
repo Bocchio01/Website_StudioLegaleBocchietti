@@ -1,8 +1,8 @@
 @php
 $title = ($title ? $title . ' | ' : '') . 'Studio Legale Bocchietti';
 $description = $description ?? 'Sito web dello \'Studio Legale Bocchietti\', situato a Como (CO)';
-$currentUrl = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-$currentHost = "http://$_SERVER[HTTP_HOST]/";
+$currentUrl = getenv('APP_URL') . "/$_SERVER[REQUEST_URI]";
+$currentHost = getenv('APP_URL') . "/" ;
 @endphp
 
 <head>
@@ -20,8 +20,8 @@ $currentHost = "http://$_SERVER[HTTP_HOST]/";
     <meta property="og:title" content="Studio Legale Bocchietti">
     <meta name="twitter:title" content="Studio Legale Bocchietti">
 
-    <meta property="og:image" content="{{ $currentHost . assets('img/feather_pen.png') }}">
-    <meta name="twitter:image" content="{{ $currentHost . assets('img/feather_pen.png') }}">
+    <meta property="og:image" content="{{ $currentHost . assets('img/feather_pen.jpg') }}">
+    <meta name="twitter:image" content="{{ $currentHost . assets('img/feather_pen.jpg') }}">
     <meta property="og:image:alt" content="{{ $title }}">
     <meta name="twitter:image:alt" content="{{ $title }}">
 

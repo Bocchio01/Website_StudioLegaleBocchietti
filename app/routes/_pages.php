@@ -41,7 +41,7 @@ app()->match('GET', '/curricula(/[a-z0-9_-]+)?', function ($curriculumSurname = 
 
 });
 
-app()->match('GET', '/attività', function () {
+app()->match('GET', '/attivita', function () {
     render('pages.activities');
 });
 

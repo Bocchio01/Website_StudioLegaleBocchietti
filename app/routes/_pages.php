@@ -27,18 +27,21 @@ app()->match('GET', '/curricula(/[a-z0-9_-]+)?', function ($curriculumSurname = 
                 ]]);
             break;
 
-        default:
+        case '':
             render('pages.curriculums',
             [
                 'curriculum' => false,
                 'coverImage' => [
                     'src' => 'img/feather_pen.jpg',
-                    'alt' => 'Feather pen image'
-                ]]);
+                    'alt' => 'Penna piumata'
+                    ]]);
+            break;
+
+
+        default:
+            app()->push('/curricula');
             break;
     }
-
-
 });
 
 app()->match('GET', '/attivita', function () {
@@ -51,6 +54,30 @@ app()->match('GET', '/contatti', function () {
 
 app()->match('GET', '/avvertenze', function () {
     render('pages.warnings');
+});
+
+app()->match('GET', '/pubblicazioni(/\d+)?', function ($publication = false) {
+
+    switch ($publication) {
+        case 1:
+            render('pages.publications',
+            [
+                'publication' => true,
+                'title' => 'Il ricorso per la modifica del termine di esecuzione del rilascio ha natura oppositiva agli atti esecutivi',
+                'author' => 'Claudio Bocchietti',
+                'year' => '2005',
+                'fileName' => 'Il_ricorso_per_la_modifica_del_termine_di_esecuzione_del_rilascio_ha_natura_oppositiva_agli_atti_esecutivi.pdf',
+            ]);
+            break;
+
+        case false:
+            render('pages.publications', ['publication' => false]);
+            break;
+
+        default:
+            app()->push('/pubblicazioni');
+            break;
+    }
 });
 
 // response()->download('path/to/file.zip', 'File name on client', 200);

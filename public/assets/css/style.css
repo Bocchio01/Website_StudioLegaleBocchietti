@@ -164,6 +164,15 @@ address {
     margin: 20px auto;
 }
 
+object {
+    width: 100%;
+    aspect-ratio: 1/1.414;
+    max-height: 90vh;
+    border: none;
+    border-radius: 15px;
+    margin: 20px auto;
+}
+
 @media only screen and (max-width: 940px) {
     body > div {
         margin: 0 auto;

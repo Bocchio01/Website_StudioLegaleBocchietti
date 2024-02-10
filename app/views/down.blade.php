@@ -14,7 +14,7 @@
 
             @include('_components.coverImage', [
                 'src' => 'img/feather_pen.jpg',
-                'alt' => 'Feather pen image',
+                'alt' => 'Penna piumata',
             ])
 
             <section>

@@ -370,6 +370,159 @@
             benvenuto nella Sala Bianca del Teatro Sociale di Como in occasione della presentazione del libro, anno
             2020.
         </li>
+        <li>
+            "Teatro Sociale - Stagione Notte 21/22”, Discorso di benvenuto in occasione della presentazione della
+            stagione notte 2023-2024, Palcoscenico del Teatro Sociale di Como, anno 2021.
+        </li>
+        <li>
+            "Casino Sociale da due secoli cuore di Como”, Articolo (2 pagine intere) dell'inserto l'Ordine del
+            quotidiano La Provincia di Como pubblicato in occasione dei festeggiamenti per i 200 anni dalla fondazione
+            della Società del Casino, 2021.
+        </li>
+        <li>
+            "Il rapporto tra la Società Palchettisti e la Società del Casino, dalla nascita nel 1821, ai moti
+            risorgimentali, agli sviluppi nel '900 fino ad oggi, la Società del Casino come una grande risorsa culturale
+            per la città di Como”, Conferenza tenuta in occasione dei festeggiamenti per i 200 anni dalla fondazione
+            della Società del Casino organizzati dalla Società Palchettisti con la partecipazione dello storico Alberto
+            Longatti e del musicologo Stefano Lamon, Sala Bianca del Teatro Sociale di Como, anno 2021.
+        </li>
+        <li>
+            "73° Concorso AsLiCo per giovani cantanti lirici 2023”, Discorso di saluto in occasione della premiazione
+            dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
+            Milano, Palcoscenico del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "Il Corso per Amministratore di Condominio”, presentazione del Corso organizzato da Confedilizia di Como e
+            Gesticond alla Radio CiaoComo intervistato da Marco Romualdi, 2022.
+        </li>
+        <li>
+            "La posizione di Confedilizia-Como sulla riforma del Catasto e in particolare la critica a un Catasto
+            patrimoniale”, Conferenza al Convegno intitolato "La nostra Como tra rigenerazione urbana e riforma del
+            Catasto” organizzato dal FdI, Yacht Club di Como, anno 2022.
+        </li>
+        <li>
+            "In nomine Domini 1764”, Conferenza stampa di presentazione del Concerto per il 258esimo compleanno della
+            Società Palchettisti con la partecipazione della Orchestra da camera Franz Terraneo con Maestro concertatore
+            Beppe Crosta e del violinista solista Davide Alogna, organizzato da Società Palchettisti con la
+            collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "Delega Fiscale, facciamo il punto”, Discorso di benvenuto al Convegno organizzato da Confedilizia
+            Nazionale, Palace Hotel Como, 2022.
+        </li>
+        <li>
+            "In nomine Domini 1764”, Discorso di augurio alla Società Palchettisti per il 258esimo compleanno, in
+            occasione del Concerto con la partecipazione della Orchestra da camera Franz Terraneo con Maestro
+            concertatore Beppe Crosta e del violinista solista Davide Alogna, organizzato da Società Palchettisti con la
+            collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "Teatro Sociale - Stagione Notte 22/23”, Discorso di benvenuto in occasione della presentazione della
+            stagione notte 2022-2023, Palcoscenico del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "ISTAT 2022: un vademecum pratico per i locatori”, Articolo pubblicato in Diritto.it, anno 2022.
+        </li>
+        <li>
+            "La Divina Commedia di Dante Alighieri con 112 Tavole di Giuliano Collina”, Discorso di benvenuto alla
+            presentazione della Mostra nel Duomo di Como dell'Opera edita da NodoLibri, con l'intervento di Giuliano
+            Collina, Filippo Galli e Gerardo Monizza, Sala Bianca del Teatro Sociale di Como, 2022.
+        </li>
+        <li>
+            "Il castello della Torre Rotonda, da luogo di guerra a luogo di cultura, da luogo chiuso a luogo di libertà,
+            da luogo di dominazione milanese a luogo di intraprendenza comasca, da luogo decadente a luogo al servizio
+            della città, la trasformazione del vecchio castello operata dalla Società Palchettisti per la creazione del
+            Teatro Sociale”, Relazione introduttiva alla manifestazione "Camminleggendo tra torri e castelli”
+            organizzata da Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro Sociale di Como, 2022.
+        </li>
+        <li>
+            "Aspettando Don Giovanni di Mozart”, Discorso di benvenuto in occasione della presentazione della "prima”
+            della Stagione Teatrale 2022/2023 con la presenza del Direttore di Orchestra M° Riccardo Bisatti e del
+            Regista Raffaele Di Florio, Sala Bianca del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "Inaugurazione del Palco Reale del Teatro Sociale”, Intervista al TG3 Lombardia e Discorso di ringraziamento
+            ai ragazzi della Scuola Oliver Twist di Cometa alla presenza di Erasmo Figini Fondatore di Cometa e del
+            dott. Andrea Polichetti, Prefetto di Como, Palcoscenico del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "Concorso Fotografico Wiki Loves Lake Como”, Discorso di premiazione per la Sezione dedicata al Castello
+            della Torre Rotonda, in collaborazione con Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro Sociale
+            di Como, anno 2022.
+        </li>
+        <li>
+            "Coro Gospel Roderick Giles&Grace” di Washington, Discorso di benvenuto al Concerto di sostegno del Fondo
+            Sant'Anna della Fondazione Comasca, Palcoscenico del Teatro Sociale di Como, anno 2022.
+        </li>
+        <li>
+            "74° Concorso AsLiCo per giovani cantanti lirici 2023”, Discorso di saluto in occasione della premiazione
+            dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
+            Milano, Palcoscenico del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Il Corso per Amministratore di Condominio”, presentazione del Corso organizzato da Confedilizia di Como e
+            Gesticond alla Radio CiaoComo intervistato da Marco Romualdi, 2023.
+        </li>
+        <li>
+            "Festival Como città della Musica”, Discorso di benvenuto in occasione della presentazione del Festival
+            estivo, Palcoscenico del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Il velario pliniano del Teatro Sociale di Como” di Alberto Longatti, Discorso di benvenuto in occasione
+            della presentazione del libro così intitolato, Palcoscenico del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "In nomine Domini 1764”, Conferenza stampa di presentazione del Concerto per il 259esimo compleanno della
+            Società Palchettisti con la partecipazione del Conservatorio G. Verdi di Como, organizzato da Società
+            Palchettisti con la collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "In nomine Domini 1764”, Discorso di augurio alla Società Palchettisti per il 259esimo compleanno, in
+            occasione del Concerto con la partecipazione del Conservatorio G. Verdi di Como, organizzato da Società
+            Palchettisti con la collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Plinio e i Palchettisti”, Intervista al TG3 Lombardia sul Velario di Alessandro Sanquirico in Teatro,
+            Platea del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Nel segreto dei palchi: visioni straordinarie di luoghi Comuni”, Discorso di benvenuto in occasione della
+            presentazione della mostra fotografica di Lorenza Ceruti in Teatro, Foyer del Teatro Sociale di Como, anno
+            2023.
+        </li>
+        <li>
+            "Teatro Sociale - Stagione Notte 23/24”, Discorso di benvenuto in occasione della presentazione della
+            stagione notte 2023-2024, Palcoscenico del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Cerimonia di Premiazione del Premio &lt;&lt;Vinceremo le malattie gravi&gt;&gt;”, Discorso di benvenuto in
+            occasione della premiazione, Sala Bianca del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Concorso Fotografico Wiki Loves Lake Como”, Discorso di premiazione per la Sezione dedicata al Velario
+            storico del Sanquirico, in collaborazione con Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro
+            Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "Concerto di Natale”, Discorso di benvenuto in occasione della presentazione del Concerto di Natale con il
+            Coro Voci Bianche del Teatro Sociale di Como, il Coro 200.com, il Coro Oliver-Cometa e con la partecipazione
+            di PYO-Pasquinelli Young Orchestra e Orchestra UKOM, Palcoscenico del Teatro Sociale di Como, anno 2023.
+        </li>
+        <li>
+            "75° Concorso AsLiCo per giovani cantanti lirici 2024”, Discorso di saluto in occasione della premiazione
+            dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
+            Milano, Palcoscenico del Teatro Sociale di Como, anno 2024.
+        </li>
+        <li>
+            "Cerimonia di inaugurazione dei lavori PNRR di efficientamento energetico in Teatro”, Discorso di saluto in
+            occasione della inaugurazione dei lavori alla presenza del Sindaco di Como dr. Alessandro Rapinese, del
+            Ministro
+            per le disabilità On. Alessandra Locatelli, del Sottosegretario alla Presidenza del Consiglio dei Ministri
+            Sen.
+            Alessio Butti, del Prefetto di Como dr. Andrea Polichetti e di numerose altre Autorità, facciata Ovest del
+            Teatro, via Bellini, anno 2024.
+        </li>
+        {{-- Up to 08/01/2024 --}}
     </ul>
 </section>
 
@@ -496,4 +649,8 @@
         </ul>
     </section>
 
+</section>
+
+<section>
+    <p style="text-align: right;">Como, 20 gennaio 2024</p>
 </section>

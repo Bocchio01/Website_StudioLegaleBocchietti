@@ -63,10 +63,11 @@ app()->match('GET', '/pubblicazioni(/\d+)?', function ($publication = false) {
             render('pages.publications',
             [
                 'publication' => true,
+                'id' => 1,
                 'title' => 'Il ricorso per la modifica del termine di esecuzione del rilascio ha natura oppositiva agli atti esecutivi',
                 'author' => 'Claudio Bocchietti',
                 'year' => '2005',
-                'fileName' => 'Il_ricorso_per_la_modifica_del_termine_di_esecuzione_del_rilascio_ha_natura_oppositiva_agli_atti_esecutivi.pdf',
+                'fileName' => '1_publication.pdf',
             ]);
             break;
 
@@ -78,6 +79,29 @@ app()->match('GET', '/pubblicazioni(/\d+)?', function ($publication = false) {
             app()->push('/pubblicazioni');
             break;
     }
+});
+
+app()->match('GET', '/download/([a-z0-9_-]+)?', function ($file = false) {
+
+        switch ($file) {
+            case 'bocchietti':
+                response()->download(
+                    assets('pdf/CV_Bocchietti.pdf'),
+                    'CurriculumVitae_Bocchietti.pdf',
+                    200);
+                break;
+
+            case 1:
+                response()->download(
+                    assets('pdf/1_publication.pdf'),
+                    'Il_ricorso_per_la_modifica_del_termine_di_esecuzione_del_rilascio_ha_natura_oppositiva_agli_atti_esecutivi.pdf',
+                    200);
+                break;
+
+            default:
+                app()->push('/');
+                break;
+        }
 });
 
 // response()->download('path/to/file.zip', 'File name on client', 200);

@@ -34,6 +34,8 @@
                     </ul>
                 @else
 
+                    <p>Clicca qui per <a href="/download/{{ $id }}" >scaricare il documento.</a></p>
+
                     <h3>{{ $title }}</h3>
                     <ul>
                         <li>Autore: {{ $author }}</li>
@@ -41,8 +43,8 @@
                     </ul>
 
                     <object data='{{ $fullPDFpath }}'>
-                        <p>Il tuo browser non supporta la visualizzazione di file PDF.</p>
-                        <p><a href="{{ $fullPDFpath }}">Clicca qui per scaricare il file PDF.</a></p>
+                        <p>Questo browser non supporta la visualizzazione di file PDF.</p>
+                        <p>Scarica il documento dal link sopra.</p>
                     </object>
                 @endif
 

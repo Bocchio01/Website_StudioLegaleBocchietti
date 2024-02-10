@@ -1,4 +1,4 @@
-<p>Clicca qui per una scaricare la <a href="/download/bocchietti" >versione PDF.</a></p>
+<p>Clicca qui per scaricare la <a href="/download/bocchietti" >versione PDF.</a></p>
 
 <section style="text-align: center;">
     <h3>Avv. Claudio Bocchietti</h3>

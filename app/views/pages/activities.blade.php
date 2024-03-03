@@ -24,7 +24,7 @@
             <section>
 
                 <section>
-                    <b>Nell'ambito del Diritto Civile</b> diritto della responsabilità civile per colpa con particolare
+                    <b>Nell'ambito del Diritto Civile</b>: diritto della responsabilità civile per colpa con particolare
                     riferimento alla difesa di personale medico e infermieristico e alla difesa di strutture
                     ospedaliere; diritto delle assicurazioni, in particolare per la R.C.; diritto delle obbligazioni e
                     dei contratti (vendita, appalto, ecc.); diritto delle successioni; diritto dell'esecuzione civile
@@ -37,7 +37,7 @@
                 <br>
 
                 <section>
-                    <b>Nell'ambito del Diritto Penale</b> reato di omicidio colposo e reato di lesioni colpose con
+                    <b>Nell'ambito del Diritto Penale</b>: reato di omicidio colposo e reato di lesioni colpose con
                     particolare riferimento alla difesa di personale medico ed infermieristico e alla difesa (quali
                     responsabili civili) di strutture ospedaliere; reati contro la persona compresi i reati di omicidio
                     colposo e di lesioni colpose derivanti dalla circolazione stradale o dalla violazione della

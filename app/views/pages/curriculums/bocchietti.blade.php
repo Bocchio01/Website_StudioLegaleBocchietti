@@ -1,4 +1,8 @@
-<p>Clicca qui per scaricare la <a href="/download/bocchietti" >versione PDF.</a></p>
+@php
+$currentHost = getenv('APP_URL') . "/" ;
+@endphp
+
+<p>Clicca qui per scaricare la <a href="/download/bocchietti">versione PDF.</a></p>
 
 <section style="text-align: center;">
     <h3>Avv. Claudio Bocchietti</h3>
@@ -26,7 +30,12 @@
             "L'Amministrazione Straordinaria del Gruppo di Imprenditori" (Relatore avv. Prof. Edoardo Ricci). Voto
             105/110.
         </li>
+    </ul>
+</section>
 
+<section>
+    <h3>Esame di Avvocato e Iscrizione all'Albo</h3>
+    <ul>
         <li>
             <b>1991</b> - Esame di Avvocato presso la Corte di Appello di Milano in sede orale di pre-appello.
         </li>
@@ -39,29 +48,30 @@
 </section>
 
 <section>
-    <h3>Esperienze Professionali</h3>
+    <h3>Carriera forense</h3>
     <ul>
         <li>
             <b>Dal 1988 al 1990</b> - Praticante Avvocato presso lo Studio Legale dell'avv. prof. Marco Sica di Milano.
         </li>
 
         <li>
-            <b>Dal 1990 al 2003</b> - Socio dello Studio Legale Associato Noseda-Cattaneo-Martinelli-Galbiati di Como.
+            <b>Dal 1990 al 2003</b> - Socio dello Studio Legale Associato Noseda-Cattaneo-Martinelli-Galbiati di Como
+            con il titolo di Avvocato dal 1991.
         </li>
 
         <li>
-            <b>Dal 1995 al 1997</b> - Vice Pretore Onorario presso il Tribunale Civile e Penale di Como.
+            <b>Dal 1995 al 1997</b> - Incarico triennale di Vice Pretore Onorario (Giudice Onorario) presso il Tribunale
+            Civile e Penale di Como
         </li>
 
         <li>
-            <b>Dal 2003</b> - Titolare di autonomo Studio Legale in Como, Via Volta n. 40.
+            <b>Dal 2003 ad oggi</b> - Titolare dello Studio Legale avv. Bocchietti, Como, Via Volta n. 40.
         </li>
     </ul>
 </section>
 
 <section>
     <h3>Materie Trattate</h3>
-
     <ul>
         <li>
             <b>Nell'ambito del Diritto Civile</b>: diritto della responsabilità civile per colpa con particolare
@@ -80,21 +90,18 @@
             lavoro) e tutela della privacy; reati contro la pubblica amministrazione e reato di falso ideologico e
             documentale, circonvenzione di incapace.
         </li>
-
-
     </ul>
-
 </section>
 
 <section>
     <h3>Lingue Straniere</h3>
     <ul>
-        <li>Francese e Inglese scolastico</li>
+        <li><b>Francese</b> e <b>Inglese</b> scolastico</li>
     </ul>
 </section>
 
 <section>
-    <h3>Pubblicazioni, Conferenze e altri interventi pubblici</h3>
+    <h3>Pubblicazioni, Conferenze e Discorsi Pubblici</h3>
     <ul>
         <li>
             <i>"Il Risarcimento del Calciatore Infortunato"</i>, Articolo pubblicato in Quaderni del Centro Sportivo
@@ -299,12 +306,13 @@
         </li>
         <li>
             <i>"Il teatro come luogo di cultura per la città di Como e il ruolo della Società dei Palchettisti"</i>,
-                Relazione alla conviviale del Rotary Club Como Baradello, anno 2019.
+            Relazione alla conviviale del Rotary Club Como Baradello, anno 2019.
         </li>
         <li>
             <i>"Napoleone Bonaparte, Ugo Foscolo, Alessandro Volta, Mary Schelley, Giambattista Giovio, Giuditta Pasta,
                 Plinio il Vecchio e il loro collegamento con il Teatro Sociale di Como"</i>, Relazione per il terzo
-            ciclo annuale di Passeggiate creative <i>"Sulle orme di Volta"</i>, promosso da Fondazione Alessandro Volta con
+            ciclo annuale di Passeggiate creative <i>"Sulle orme di Volta"</i>, promosso da Fondazione Alessandro Volta
+            con
             Sentiero dei Sogni, anno 2019.
         </li>
         <li>
@@ -313,7 +321,8 @@
             Palchettisti con la presenza del Comandante dei VVFF di Como ing. Luigi Giudice, anno 2019.
         </li>
         <li>
-            <i>"Il Tema di Clara"</i>, Discorso di benvenuto nella Sala Bianca del Teatro Sociale di Como al concerto della
+            <i>"Il Tema di Clara"</i>, Discorso di benvenuto nella Sala Bianca del Teatro Sociale di Como al concerto
+            della
             pianista Noemi Teruel Serrano, organizzato dalla Società Palchettisti per celebrare l'anniversario dei
             200 anni dalla nascita di Clara Schumann, anno 2019.
         </li>
@@ -383,27 +392,33 @@
         </li>
         <li>
             <i>"Il rapporto tra la Società Palchettisti e la Società del Casino, dalla nascita nel 1821, ai moti
-            risorgimentali, agli sviluppi nel '900 fino ad oggi, la Società del Casino come una grande risorsa culturale
-            per la città di Como"</i>, Conferenza tenuta in occasione dei festeggiamenti per i 200 anni dalla fondazione
+                risorgimentali, agli sviluppi nel '900 fino ad oggi, la Società del Casino come una grande risorsa
+                culturale
+                per la città di Como"</i>, Conferenza tenuta in occasione dei festeggiamenti per i 200 anni dalla
+            fondazione
             della Società del Casino organizzati dalla Società Palchettisti con la partecipazione dello storico Alberto
             Longatti e del musicologo Stefano Lamon, Sala Bianca del Teatro Sociale di Como, anno 2021.
         </li>
         <li>
-            <i>"73° Concorso AsLiCo per giovani cantanti lirici 2023"</i>, Discorso di saluto in occasione della premiazione
+            <i>"73° Concorso AsLiCo per giovani cantanti lirici 2023"</i>, Discorso di saluto in occasione della
+            premiazione
             dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
             Milano, Palcoscenico del Teatro Sociale di Como, anno 2022.
         </li>
         <li>
-            <i>"Il Corso per Amministratore di Condominio"</i>, presentazione del Corso organizzato da Confedilizia di Como e
+            <i>"Il Corso per Amministratore di Condominio"</i>, presentazione del Corso organizzato da Confedilizia di
+            Como e
             Gesticond alla Radio CiaoComo intervistato da Marco Romualdi, 2022.
         </li>
         <li>
             <i>"La posizione di Confedilizia-Como sulla riforma del Catasto e in particolare la critica a un Catasto
-            patrimoniale"</i>, Conferenza al Convegno intitolato <i>"La nostra Como tra rigenerazione urbana e riforma del
-            Catasto</i>" organizzato dal FdI, Yacht Club di Como, anno 2022.
+                patrimoniale"</i>, Conferenza al Convegno intitolato <i>"La nostra Como tra rigenerazione urbana e
+                riforma del
+                Catasto</i>" organizzato dal FdI, Yacht Club di Como, anno 2022.
         </li>
         <li>
-            <i>"In nomine Domini 1764"</i>, Conferenza stampa di presentazione del Concerto per il 258esimo compleanno della
+            <i>"In nomine Domini 1764"</i>, Conferenza stampa di presentazione del Concerto per il 258esimo compleanno
+            della
             Società Palchettisti con la partecipazione della Orchestra da camera Franz Terraneo con Maestro concertatore
             Beppe Crosta e del violinista solista Davide Alogna, organizzato da Società Palchettisti con la
             collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2022.
@@ -426,55 +441,69 @@
             <i>"ISTAT 2022: un vademecum pratico per i locatori"</i>, Articolo pubblicato in Diritto.it, anno 2022.
         </li>
         <li>
-            <i>"La Divina Commedia di Dante Alighieri con 112 Tavole di Giuliano Collina"</i>, Discorso di benvenuto alla
+            <i>"La Divina Commedia di Dante Alighieri con 112 Tavole di Giuliano Collina"</i>, Discorso di benvenuto
+            alla
             presentazione della Mostra nel Duomo di Como dell'Opera edita da NodoLibri, con l'intervento di Giuliano
             Collina, Filippo Galli e Gerardo Monizza, Sala Bianca del Teatro Sociale di Como, 2022.
         </li>
         <li>
-            <i>"Il castello della Torre Rotonda, da luogo di guerra a luogo di cultura, da luogo chiuso a luogo di libertà,
-            da luogo di dominazione milanese a luogo di intraprendenza comasca, da luogo decadente a luogo al servizio
-            della città, la trasformazione del vecchio castello operata dalla Società Palchettisti per la creazione del
-            Teatro Sociale"</i>, Relazione introduttiva alla manifestazione <i>"Camminleggendo tra torri e castelli</i>"
+            <i>"Il castello della Torre Rotonda, da luogo di guerra a luogo di cultura, da luogo chiuso a luogo di
+                libertà,
+                da luogo di dominazione milanese a luogo di intraprendenza comasca, da luogo decadente a luogo al
+                servizio
+                della città, la trasformazione del vecchio castello operata dalla Società Palchettisti per la creazione
+                del
+                Teatro Sociale"</i>, Relazione introduttiva alla manifestazione <i>"Camminleggendo tra torri e
+                castelli</i>"
             organizzata da Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro Sociale di Como, 2022.
         </li>
         <li>
-            <i>"Aspettando Don Giovanni di Mozart"</i>, Discorso di benvenuto in occasione della presentazione della <i>"prima</i>"
+            <i>"Aspettando Don Giovanni di Mozart"</i>, Discorso di benvenuto in occasione della presentazione della
+            <i>"prima</i>"
             della Stagione Teatrale 2022/2023 con la presenza del Direttore di Orchestra M° Riccardo Bisatti e del
             Regista Raffaele Di Florio, Sala Bianca del Teatro Sociale di Como, anno 2022.
         </li>
         <li>
-            <i>"Inaugurazione del Palco Reale del Teatro Sociale"</i>, Intervista al TG3 Lombardia e Discorso di ringraziamento
+            <i>"Inaugurazione del Palco Reale del Teatro Sociale"</i>, Intervista al TG3 Lombardia e Discorso di
+            ringraziamento
             ai ragazzi della Scuola Oliver Twist di Cometa alla presenza di Erasmo Figini Fondatore di Cometa e del
             dott. Andrea Polichetti, Prefetto di Como, Palcoscenico del Teatro Sociale di Como, anno 2022.
         </li>
         <li>
-            <i>"Concorso Fotografico Wiki Loves Lake Como"</i>, Discorso di premiazione per la Sezione dedicata al Castello
+            <i>"Concorso Fotografico Wiki Loves Lake Como"</i>, Discorso di premiazione per la Sezione dedicata al
+            Castello
             della Torre Rotonda, in collaborazione con Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro Sociale
             di Como, anno 2022.
         </li>
         <li>
-            <i>"Coro Gospel Roderick Giles&Grace</i>" di Washington, Discorso di benvenuto al Concerto di sostegno del Fondo
+            <i>"Coro Gospel Roderick Giles&Grace</i>" di Washington, Discorso di benvenuto al Concerto di sostegno del
+            Fondo
             Sant'Anna della Fondazione Comasca, Palcoscenico del Teatro Sociale di Como, anno 2022.
         </li>
         <li>
-            <i>"74° Concorso AsLiCo per giovani cantanti lirici 2023"</i>, Discorso di saluto in occasione della premiazione
+            <i>"74° Concorso AsLiCo per giovani cantanti lirici 2023"</i>, Discorso di saluto in occasione della
+            premiazione
             dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
             Milano, Palcoscenico del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Il Corso per Amministratore di Condominio"</i>, presentazione del Corso organizzato da Confedilizia di Como e
+            <i>"Il Corso per Amministratore di Condominio"</i>, presentazione del Corso organizzato da Confedilizia di
+            Como e
             Gesticond alla Radio CiaoComo intervistato da Marco Romualdi, 2023.
         </li>
         <li>
-            <i>"Festival Como città della Musica"</i>, Discorso di benvenuto in occasione della presentazione del Festival
+            <i>"Festival Como città della Musica"</i>, Discorso di benvenuto in occasione della presentazione del
+            Festival
             estivo, Palcoscenico del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Il velario pliniano del Teatro Sociale di Como</i>" di Alberto Longatti, Discorso di benvenuto in occasione
+            <i>"Il velario pliniano del Teatro Sociale di Como</i>" di Alberto Longatti, Discorso di benvenuto in
+            occasione
             della presentazione del libro così intitolato, Palcoscenico del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"In nomine Domini 1764"</i>, Conferenza stampa di presentazione del Concerto per il 259esimo compleanno della
+            <i>"In nomine Domini 1764"</i>, Conferenza stampa di presentazione del Concerto per il 259esimo compleanno
+            della
             Società Palchettisti con la partecipazione del Conservatorio G. Verdi di Como, organizzato da Società
             Palchettisti con la collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2023.
         </li>
@@ -484,11 +513,13 @@
             Palchettisti con la collaborazione di ASLICO, Sala Bianca del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Plinio e i Palchettisti"</i>, Intervista al TG3 Lombardia sul Velario di Alessandro Sanquirico in Teatro,
+            <i>"Plinio e i Palchettisti"</i>, Intervista al TG3 Lombardia sul Velario di Alessandro Sanquirico in
+            Teatro,
             Platea del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Nel segreto dei palchi: visioni straordinarie di luoghi Comuni"</i>, Discorso di benvenuto in occasione della
+            <i>"Nel segreto dei palchi: visioni straordinarie di luoghi Comuni"</i>, Discorso di benvenuto in occasione
+            della
             presentazione della mostra fotografica di Lorenza Ceruti in Teatro, Foyer del Teatro Sociale di Como, anno
             2023.
         </li>
@@ -497,26 +528,31 @@
             stagione notte 2023-2024, Palcoscenico del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Cerimonia di Premiazione del Premio &lt;&lt;Vinceremo le malattie gravi&gt;&gt;"</i>, Discorso di benvenuto in
+            <i>"Cerimonia di Premiazione del Premio &lt;&lt;Vinceremo le malattie gravi&gt;&gt;"</i>, Discorso di
+            benvenuto in
             occasione della premiazione, Sala Bianca del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Concorso Fotografico Wiki Loves Lake Como"</i>, Discorso di premiazione per la Sezione dedicata al Velario
+            <i>"Concorso Fotografico Wiki Loves Lake Como"</i>, Discorso di premiazione per la Sezione dedicata al
+            Velario
             storico del Sanquirico, in collaborazione con Sentiero dei Sogni e Pietro Berra, Sala Bianca del Teatro
             Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"Concerto di Natale"</i>, Discorso di benvenuto in occasione della presentazione del Concerto di Natale con il
+            <i>"Concerto di Natale"</i>, Discorso di benvenuto in occasione della presentazione del Concerto di Natale
+            con il
             Coro Voci Bianche del Teatro Sociale di Como, il Coro 200.com, il Coro Oliver-Cometa e con la partecipazione
             di PYO-Pasquinelli Young Orchestra e Orchestra UKOM, Palcoscenico del Teatro Sociale di Como, anno 2023.
         </li>
         <li>
-            <i>"75° Concorso AsLiCo per giovani cantanti lirici 2024"</i>, Discorso di saluto in occasione della premiazione
+            <i>"75° Concorso AsLiCo per giovani cantanti lirici 2024"</i>, Discorso di saluto in occasione della
+            premiazione
             dei vincitori alla presenza del Presidente della Giuria M° Dominique Meyer Soprintendente della Scala di
             Milano, Palcoscenico del Teatro Sociale di Como, anno 2024.
         </li>
         <li>
-            <i>"Cerimonia di inaugurazione dei lavori PNRR di efficientamento energetico in Teatro"</i>, Discorso di saluto in
+            <i>"Cerimonia di inaugurazione dei lavori PNRR di efficientamento energetico in Teatro"</i>, Discorso di
+            saluto in
             occasione della inaugurazione dei lavori alla presenza del Sindaco di Como dr. Alessandro Rapinese, del
             Ministro
             per le disabilità On. Alessandra Locatelli, del Sottosegretario alla Presidenza del Consiglio dei Ministri
@@ -525,133 +561,303 @@
             Teatro, via Bellini, anno 2024.
         </li>
         {{-- Up to 08/01/2024 --}}
+
+        <li>
+            <i>"La battaglia di Confedilizia-Como contro i Comuni che non rispettano la Legge sulle riduzioni IMU
+                previste per i proprietari che utilizzano i contratti a canone concordato e la favorevole presa di
+                posizione del Ministero dell'Economia e delle Finanze"</i>, Relazione alla riunione organizzativa
+            nazionali delle Associazioni provinciali aderenti a Confedilizia, Torino, anno 2024.
+        </li>
+
+        <li>
+            <i>"Evento per i professionisti dell'amministrazione immobiliare: consigli pratici per ridurre i costi di
+                studio e massimizzare i profitti"</i>, Discorso di saluto come Presidente di Confedilizia-Como in
+            occasione del corso di formazione organizzato da Gesticond-Como, Sala Turca del Teatro Sociale di Como, anno
+            2024.
+        </li>
+
+        <li>
+            <i>"Conferenza Stampa di presentazione dell'accordo triennale di collaborazione tra Comune di Como e Teatro
+                Sociale/Aslico"</i>, Discorso di saluto alla presenza del Sindaco di Como Alessandro Rapinese, Assessore
+            alla cultura Enrico Colombo, Assessore alle Politiche sociali Nicoletta Roperto, Presidente Teatro
+            Sociale/Aslico Simona Roveda, Direttrice della Programmazione Teatro Sociale/Aslico Barbara Minghetti, Sala
+            della Giunta comunale, Palazzo Cernezzi in Como, anno 2024.
+        </li>
+        {{-- Up to 02/03/2024 --}}
     </ul>
 </section>
 
 <section>
-    <h3>Incarichi di rilevanza pubblica</h3>
+    <h3>Incarichi attivi</h3>
+    <ul>
+        <li>
+            <b>Presidente</b> della Società Palchettisti del Teatro Sociale di Como (dal 2018).
+        </li>
 
-    <section>
-        <h3>Incarichi attivi</h3>
-        <ul>
-            <li>
-                <b>Presidente</b> della Società dei Palchettisti del Teatro Sociale di Como.
-            </li>
+        <li>
+            <b>Presidente</b> della Associazione della Proprietà Edilizia-Confedilizia di Como (dal 2010).
+        </li>
 
-            <li>
-                <b>Presidente</b> della Associazione della Proprietà Edilizia-Confedilizia di Como.
-            </li>
+        <li>
+            <b>Consigliere</b> della Associazione Lirico Concertistica-Aslico di Como (dal 2018).
+        </li>
 
-            <li>
-                <b>Docente</b> della Scuola Regionale dello Sport del CONI-Lombardia.
-            </li>
+        <li>
+            <b>Professionista Delegato</b> alle vendite immobiliari del Tribunale di Como ex art. 179 ter disp. att.
+            c.p.c. (dal 2022).
+        </li>
 
-            <li>
-                <b>Revisore</b> dei Conti della "Società Storica Comense".
-            </li>
+        <li>
+            <b>Responsabile scientifico</b> per la formazione di Amministratori Condominiali per conto di
+            Confedilizia-Como ex art. 4 DM 140/2014 (dal 2014).
+        </li>
 
-            <li>
-                <b>Arbitro</b> abilitato dell'Organismo di Conciliazione presso la Camera di Commercio di Como.
-            </li>
+        <li>
+            <b>Presidente</b> del Collegio dei Probiviri del Panathlon Club di Como (dal 2007).
+        </li>
 
-            <li>
-                <b>Tutore e Amministratore di Sostegno</b> di soggetti deboli per nomina del Giudice Tutelare del
-                Tribunale di Como.
-            </li>
+        <li>
+            <b>Componente</b> del Collegio dei Probiviri della Associazione d'Area del Panathlon Club (dal 2024).
+        </li>
 
-            <li>
-                <b>Socio</b> del Rotary Club Como Baradello.
-            </li>
+        <li>
+            <b>Coordinatore</b> della Commissione Fondazione Rotary per conto del Rotary Club Baradello (dal 2023).
+        </li>
 
-            <li>
-                <b>Socio</b> del Panathlon Club di Como.
-            </li>
-        </ul>
-    </section>
+        <li>
+            <b>Revisore</b> dei Conti della Società Storica Comense (dal 1988).
+        </li>
 
-    <section>
-        <h3>Incarichi cessati</h3>
-        <ul>
-            <li>
-                <b>2011-2016</b>: Vice-Presidente della Lega Nazionale Dilettanti-F.I.G.C. (area Nord).
-            </li>
+        <li>
+            <b>Arbitro</b> abilitato dell'Organismo di Conciliazione presso la Camera di Commercio di Como-Lecco (dal
+            1998).
+        </li>
 
-            <li>
-                <b>2014-2016</b>: Componente della Commissione Carte Federali della F.I.G.C
-            </li>
-
-            <li>
-                <b>2002-2018</b>: Consigliere della Associazione Ex Alunni Liceo Classico "A. Volta" di Como.
-            </li>
-
-            <li>
-                <b>2007-2008</b>: Commissario Ministeriale per l'esame di Stato di Avvocato.
-            </li>
-
-            <li>
-                <b>1990-1999</b>: Socio fondatore e Presidente della Associazione Sportiva Dilettantistica F.C. Albate
-                Calcio di Como.
-            </li>
-
-            <li>
-                <b>2002-2006</b>: Socio fondatore e Presidente della "Camera Civile" di Como.
-            </li>
-
-            <li>
-                <b>2007-2010</b>: Consigliere e Segretario della Camera Penale di Como e Lecco e Coordinatore della
-                Commissione scientifica.
-            </li>
-
-            <li>
-                <b>1988-2010</b>: Consigliere e Coordinatore della Commissione Legale della Associazione della Proprietà
-                Edilizia-Confedilizia di Como.
-            </li>
-
-            <li>
-                <b>2006-2010</b>: Revisore dei conti della Società dei Palchettisti del Teatro Sociale di Como.
-            </li>
-
-            <li>
-                <b>2005-2010</b>: Consigliere del Panathlon Club di Como e Presidente della Commissione Cultura.
-            </li>
-
-            <li>
-                <b>2008-2011</b>: Giudice della Commissione Disciplinare Territoriale della Lnd-Figc Lombardia.
-            </li>
-
-            <li>
-                <b>2008-2011</b>: Vice-Presidente della Commissione Nazionale per la Legge di riforma dello sport
-                Dilettantistico della Lega Nazionale Dilettanti-Federcalcio di Roma.
-            </li>
-
-            <li>
-                <b>2009-2011</b>: Componente della Commissione Nazionale per lo studio del vincolo sportivo della Lega
-                Nazionale Dilettanti-Federcalcio di Roma.
-            </li>
-
-            <li>
-                <b>2000-2011</b>: Componente della Commissione Nazionale per le problematiche Fiscali della Lega
-                Nazionale Dilettanti-Federcalcio di Roma.
-            </li>
-
-            <li>
-                <b>2010-2011</b>: Presidente della Commissione Giuridica della Lega Nazionale Dilettanti-Federcalcio di
-                Roma.
-            </li>
-
-            <li>
-                <b>2010-2016</b>: Mediatore abilitato dell'Organismo di Conciliazione presso la Camera di Commercio di
-                Como e dell'Organismo di Conciliazione presso l'Ordine degli Avvocati di Como.
-            </li>
-
-            <li>
-                <b>2003-2018</b>: Consigliere della Società dei Palchettisti del Teatro Sociale di Como.
-            </li>
-        </ul>
-    </section>
-
+        <li>
+            <b>Docente</b> della Scuola Regionale dello Sport del CONI-Lombardia (dal 1989).
+        </li>
+    </ul>
 </section>
 
 <section>
-    <p style="text-align: right;">Como, 20 gennaio 2024</p>
+    <h3>Incarichi cessati</h3>
+    <ul>
+        <li>
+            <b>2018</b>-2010: Consigliere della Società dei Palchettisti del Teatro Sociale di Como (poi divenuto
+            Presidente).
+        </li>
+
+        <li>
+            <b>2018</b>-2002: Consigliere della Associazione Ex Alunni Liceo Classico "A. Volta" di Como.
+        </li>
+
+        <li>
+            <b>2018</b>-2000: Tutore e Amministratore di Sostegno di soggetti deboli per nomina del Giudice Tutelare del
+            Tribunale di Como.
+        </li>
+
+        <li>
+            <b>2016</b>-2014: Componente della Commissione federale nazionale per la creazione di un T.U. delle Carte
+            Federali della Figc di Roma.
+        </li>
+
+        <li>
+            <b>2016</b>-2011: Vice-Presidente nazionale della Lega Nazionale Dilettanti-Figc di Roma.
+        </li>
+
+        <li>
+            <b>2016</b>-2010: Mediatore abilitato dell'Organismo di Conciliazione presso la Camera di Commercio di Como
+            e dell'Organismo di Conciliazione presso l'Ordine degli Avvocati di Como.
+        </li>
+
+        <li>
+            <b>2011</b>-2010: Presidente della Commissione Giuridica della Lega Nazionale Dilettanti-Figc di Roma (poi
+            divenuto Vice-Presidente nazionale).
+        </li>
+
+        <li>
+            <b>2011</b>-2009: Componente della Commissione Nazionale per lo studio del vincolo sportivo della Lega
+            Nazionale Dilettanti-Figc di Roma (poi divenuto Vice-Presidente nazionale).
+        </li>
+
+        <li>
+            <b>2011</b>-2009: Componente della Commissione Nazionale per le problematiche Fiscali della Lega Nazionale
+            Dilettanti-Figc di Roma (poi divenuto Vice-Presidente nazionale).
+        </li>
+
+        <li>
+            <b>2011</b>-2008: Giudice della Commissione Disciplinare Territoriale della Lega Nazionale Dilettanti-Figc
+            Lombardia (poi divenuto Vice-Presidente nazionale).
+        </li>
+
+        <li>
+            <b>2011</b>-2008: Vice-Presidente della Commissione Nazionale per la Legge di riforma dello sport
+            Dilettantistico della Lega Nazionale Dilettanti-Figc di Roma (poi divenuto Vice-Presidente nazionale).
+        </li>
+
+        <li>
+            <b>2010</b>-2007: Consigliere, Segretario e Coordinatore della Commissione scientifica della Camera Penale
+            di Como e Lecco.
+        </li>
+
+        <li>
+            <b>2010</b>-2007: Revisore dei conti della Società dei Palchettisti del Teatro Sociale di Como (poi divenuto
+            Consigliere).
+        </li>
+
+        <li>
+            <b>2010</b>-1998: Consigliere e Coordinatore della Commissione Legale della Associazione della Proprietà
+            Edilizia-Confedilizia di Como (poi divenuto Presidente).
+        </li>
+
+        <li>
+            <b>2009</b>-2006: Consigliere e Presidente della Commissione Cultura del Panathlon Club di Como.
+        </li>
+
+        <li>
+            <b>2008</b>-2007: Commissario Ministeriale per l'esame di Stato di Avvocato.
+        </li>
+
+        <li>
+            <b>2006</b>-2002: Presidente della "Camera Civile" di Como (Socio fondatore).
+        </li>
+
+        <li>
+            <b>1997</b>-1995: Vice Pretore Onorario (Giudice Onorario) presso il Tribunale Civile e Penale di Como.
+        </li>
+
+        <li>
+            <b>1997</b>-1990: Presidente della Associazione Sportiva Dilettantistica F.C. Albate Calcio di Como (Socio
+            fondatore, poi divenuto Presidente onorario).
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h3>Attività Associative e Culturali in essere</h3>
+    <ul>
+        <li>
+            <b>Socio</b> del CAI di Como (dal 1982).
+        </li>
+
+        <li>
+            <b>Socio e Revisore dei conti</b> della Società Storica Comense (dal 1988).
+        </li>
+
+        <li>
+            <b>Socio e Presidente onorario</b> della ASD Albate HF Calcio di Como (dal 1990).
+        </li>
+
+        <li>
+            <b>Socio e Presidente</b> della Associazione della Proprietà Edilizia-Confedilizia di Como (dal 1998).
+        </li>
+
+        <li>
+            <b>Socio</b> della Camera Penale di Como (dal 1999).
+        </li>
+
+        <li>
+            <b>Socio</b> dell'AVIS-Como (dal 1999).
+        </li>
+
+        <li>
+            <b>Socio</b> della Associazione Ex Alunni del Liceo Classico A. Volta di Como (dal 2000).
+        </li>
+
+        <li>
+            <b>Socio e Presidente del Collegio di Garanzia</b> del Panathlon di Como (dal 2000).
+        </li>
+
+        <li>
+            <b>Socio e past President</b> della Camera Civile di Como (dal 2003).
+        </li>
+
+        <li>
+            <b>Socio e Presidente</b> della Società Palchettisti del Teatro Sociale di Como (dal 2007).
+        </li>
+
+        <li>
+            <b>Socio</b> del Rotary Club Como Baradello (dal 2007).
+        </li>
+
+        <li>
+            <b>Socio</b> della Associazione Culturale Carducci di Como (dal 2010).
+        </li>
+
+        <li>
+            <b>Socio</b> della ASD Spina Verde di Como (dal 2020).
+        </li>
+
+        <li>
+            <b>Socio</b> della Associazione Culturale La Chiave di Volta di Como (dal 2021).
+        </li>
+
+        <li>
+            <b>Socio</b> della Associazione ANSMES-Stelle al merito sportivo del CONI (dal 2022).
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h3>Patente di guida</h3>
+    <ul>
+        <li>
+            Patente di guida A e B, rilasciata da MIT-UCO in data 02.08.2023;
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h3>Curriculum Sportivo</h3>
+    <ul>
+        <li>
+            <b>Calciatore</b>: U.S. Albatese, U.S. Guanzatese, U.S. Libertas S.B., F.C. Albate Calcio (II Cat. FIGC),
+            Nazionale Avvocati.
+        </li>
+
+        <li>
+            <b>Ciclista</b>: G.F. Maratona delle Dolomiti, G.F. Biasca-Biasca, G.F. Andermat-Andermat, G.F. Casartelli,
+            G.F. Laigueglia, G.F. Sanremo, Campionato Nazionale Avvocati, Campionato mondiale Rotary, Giro delle
+            Dolomiti: Prato Stelvio-Passo Stelvio 2023, ecc.
+        </li>
+
+        <li>
+            <b>Alpinista</b>: Sentiero Roma da Bagni di Masino a Chiesa Val Malenco 1982, Piz Bernina da Marco e Rosa
+            1984, Punta Dufour sul Monte Rosa da Rosa Hute 1993, Alta via dei Monti Lariani da Gera Lario (Loc. San
+            Tommaso) a Rifugio Como in Val Darengo 2011, Pizzo Stella da Campodolcino 2015, Monviso da Quintino Sella
+            2017, Monte Disgrazia da Rifugio Ponti 2019, Pizzo Tambò dal passo 2020, Grigna settentrionale da Colle
+            Balisio 2021, da Cainallo 2020, da Mandello 2022, Grigna meridionale da Cermenati e da Direttissima-Cecilia
+            2022, ecc).
+        </li>
+
+        <li>
+            <b>Sci-alpinista</b>: Pigne dArolla da Cabanne des Dix 2005, Pizzo Tambò da Splugen Pass 2007, Monte Thabor
+            da Rifugio Terzo Alpini 2009, Abeni Flue da Holladia Hutte 2010, Piz Buin e Dreilander Spitze da Chamana
+            Tuoi 2012, Breithorn W da Rifugio Guide del Cervino 2018, Monte Cevedale da Forni 2018, notturna al Monte
+            Ponteranica E 2023, Piz Palü E 2023 da Berghaus Diavolezza, Punta Gnifetti (Capanna Margherita) da Rifugio
+            Gnifetti 2023, Cima di Val Loga N 2003, Piz Campagnun 2023, ecc.
+        </li>
+
+        <li>
+            <b>Stella di Bronzo</b> al merito sportivo del CONI (anno 2012).
+        </li>
+
+        <li>
+            <b>Stella di Argento</b> al merito sportivo del CONI (anno 2024).
+        </li>
+
+        <li>
+            <b>Tesserato</b> per ASD Spina Verde-C.S.I., ciclismo agonistico anno 2023.
+        </li>
+    </ul>
+</section>
+
+<section style="display: flex;justify-content: space-between;">
+    <div style="max-width: 50%; text-align: left">
+        <p>Como, 02 marzo 2024</p>
+    </div>
+    <div style="max-width: 50%; text-align: right">
+        <p>Avv. Claudio Bocchietti</p>
+        <img src="{{ $currentHost . assets('img/bocchietti_signature.png') }}" alt="{{ $alt ?? 'Firma Bocchietti' }}" style="max-width: 100%; width: 165px"/>
+    </div>
 </section>

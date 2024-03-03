@@ -5,13 +5,13 @@
 <!DOCTYPE html>
 <html lang="it">
 
-@include('_components.head', ['title' => $curriculum ? ucfirst($curriculum) : 'Curricula'])
+@include('_components.head', ['title' => $curriculum ? ucfirst($curriculum) : 'Curriculum'])
 
 <body>
     <div>
 
         @include('_components.header', [
-            'subtitle' => $curriculum ? 'Curriculum Vitae ' . ucfirst($curriculum) : 'Curricula',
+            'subtitle' => $curriculum ? 'Curriculum Vitae ' . ucfirst($curriculum) : 'Curriculum',
         ])
 
         <main>
@@ -25,13 +25,13 @@
 
                 @if ($curriculum == false)
                     <p>
-                        Di seguito i curricula degli avvocati presenti nello
-                        {{ formatHelper::rendersStudioLegaleBocchietti() }}:
+                        Di seguito il curriculum dell'Avv. Claudio Bocchietti:
+                        {{-- Di seguito i curricula degli avvocati presenti nello {{ formatHelper::rendersStudioLegaleBocchietti() }}: --}}
                     </p>
 
                     <ul>
                         <li><a href="/curricula/bocchietti">Avv. Claudio Bocchietti</a></li>
-                        <li><a href="/curricula/bulanti">Avv. Gloria Bulanti</a></li>
+                        {{-- <li><a href="/curricula/bulanti">Avv. Gloria Bulanti</a></li> --}}
                     </ul>
                 @else
                     @include('pages.curriculums.' . $curriculum)

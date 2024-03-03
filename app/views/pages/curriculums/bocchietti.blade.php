@@ -96,12 +96,12 @@ $currentHost = getenv('APP_URL') . "/" ;
 <section>
     <h3>Lingue Straniere</h3>
     <ul>
-        <li><b>Francese</b> e <b>Inglese</b> scolastico</li>
+        <li><b>Francese</b> e <b>Inglese</b> scolastico.</li>
     </ul>
 </section>
 
 <section>
-    <h3>Pubblicazioni, Conferenze e Discorsi Pubblici</h3>
+    <h3>Pubblicazioni, Conferenze e Discorsi pubblici</h3>
     <ul>
         <li>
             <i>"Il Risarcimento del Calciatore Infortunato"</i>, Articolo pubblicato in Quaderni del Centro Sportivo
@@ -566,7 +566,7 @@ $currentHost = getenv('APP_URL') . "/" ;
             <i>"La battaglia di Confedilizia-Como contro i Comuni che non rispettano la Legge sulle riduzioni IMU
                 previste per i proprietari che utilizzano i contratti a canone concordato e la favorevole presa di
                 posizione del Ministero dell'Economia e delle Finanze"</i>, Relazione alla riunione organizzativa
-            nazionali delle Associazioni provinciali aderenti a Confedilizia, Torino, anno 2024.
+            nazionale delle Associazioni provinciali aderenti a Confedilizia, Torino, anno 2024.
         </li>
 
         <li>
@@ -621,7 +621,7 @@ $currentHost = getenv('APP_URL') . "/" ;
         </li>
 
         <li>
-            <b>Coordinatore</b> della Commissione Fondazione Rotary per conto del Rotary Club Baradello (dal 2023).
+            <b>Coordinatore</b> della Commissione "Fondazione Rotary" per conto del Rotary Club Baradello (dal 2023).
         </li>
 
         <li>
@@ -635,6 +635,10 @@ $currentHost = getenv('APP_URL') . "/" ;
 
         <li>
             <b>Docente</b> della Scuola Regionale dello Sport del CONI-Lombardia (dal 1989).
+        </li>
+
+        <li>
+            <b>Presidente onorario</b> della ASD Albate HF Calcio di Como (dal 1997).
         </li>
     </ul>
 </section>
@@ -741,15 +745,15 @@ $currentHost = getenv('APP_URL') . "/" ;
         </li>
 
         <li>
-            <b>Socio e Revisore dei conti</b> della Società Storica Comense (dal 1988).
+            <b>Socio</b> della Società Storica Comense (dal 1988).
         </li>
 
         <li>
-            <b>Socio e Presidente onorario</b> della ASD Albate HF Calcio di Como (dal 1990).
+            <b>Socio</b> della ASD Albate HF Calcio di Como (dal 1990).
         </li>
 
         <li>
-            <b>Socio e Presidente</b> della Associazione della Proprietà Edilizia-Confedilizia di Como (dal 1998).
+            <b>Socio</b> della Associazione della Proprietà Edilizia-Confedilizia di Como (dal 1998).
         </li>
 
         <li>
@@ -765,15 +769,15 @@ $currentHost = getenv('APP_URL') . "/" ;
         </li>
 
         <li>
-            <b>Socio e Presidente del Collegio di Garanzia</b> del Panathlon di Como (dal 2000).
+            <b>Socio</b> del Panathlon di Como (dal 2000).
         </li>
 
         <li>
-            <b>Socio e past President</b> della Camera Civile di Como (dal 2003).
+            <b>Socio</b> della Camera Civile di Como (dal 2003).
         </li>
 
         <li>
-            <b>Socio e Presidente</b> della Società Palchettisti del Teatro Sociale di Como (dal 2007).
+            <b>Socio</b> della Società Palchettisti del Teatro Sociale di Como (dal 2007).
         </li>
 
         <li>
@@ -786,6 +790,10 @@ $currentHost = getenv('APP_URL') . "/" ;
 
         <li>
             <b>Socio</b> della ASD Spina Verde di Como (dal 2020).
+        </li>
+
+        <li>
+            <b>Socio</b> della Associazione culturale Sentiero dei Sogni (dal 2021).
         </li>
 
         <li>
@@ -802,7 +810,7 @@ $currentHost = getenv('APP_URL') . "/" ;
     <h3>Patente di guida</h3>
     <ul>
         <li>
-            Patente di guida A e B, rilasciata da MIT-UCO in data 02.08.2023;
+            Patente di guida A e B, rilasciata da MIT-UCO in data 02.08.2023.
         </li>
     </ul>
 </section>
@@ -827,7 +835,7 @@ $currentHost = getenv('APP_URL') . "/" ;
             Tommaso) a Rifugio Como in Val Darengo 2011, Pizzo Stella da Campodolcino 2015, Monviso da Quintino Sella
             2017, Monte Disgrazia da Rifugio Ponti 2019, Pizzo Tambò dal passo 2020, Grigna settentrionale da Colle
             Balisio 2021, da Cainallo 2020, da Mandello 2022, Grigna meridionale da Cermenati e da Direttissima-Cecilia
-            2022, ecc).
+            2022, ecc.
         </li>
 
         <li>
@@ -845,16 +853,12 @@ $currentHost = getenv('APP_URL') . "/" ;
         <li>
             <b>Stella di Argento</b> al merito sportivo del CONI (anno 2024).
         </li>
-
-        <li>
-            <b>Tesserato</b> per ASD Spina Verde-C.S.I., ciclismo agonistico anno 2023.
-        </li>
     </ul>
 </section>
 
 <section style="display: flex;justify-content: space-between;">
     <div style="max-width: 50%; text-align: left">
-        <p>Como, 02 marzo 2024</p>
+        <p>Como, 5 marzo 2024</p>
     </div>
     <div style="max-width: 50%; text-align: right">
         <p>Avv. Claudio Bocchietti</p>
